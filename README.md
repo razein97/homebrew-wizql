@@ -2,11 +2,7 @@
 
 ## Install
 
-```bash
-brew install --cask razein97/wizql/wizql
-```
-
-Or add the tap first:
+Add the tap first:
 
 ```bash
 brew tap razein97/wizql
