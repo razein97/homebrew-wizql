@@ -1,7 +1,5 @@
 # Homebrew Tap for WizQl
 
-Instant thought capture for macOS.
-
 ## Install
 
 ```bash
