@@ -5,7 +5,8 @@ cask "wizql" do
   sha256 arm:   "272e7196dd1666f7a1a6568b2efb7f817a95bf96e773f0eadbf09f0cf6a9288b",
          intel: "64fdead9b6dd43c20880252e9a7ad41ec82cf8b0dee0faef1515cf868f09e3c0"
 
-  url "https://github.com/razein97/Wizql-Issue-Tracker/releases/download/v#{version}/WizQl_#{version}_#{arch}.dmg" verified: "https://wizql.com"
+  url "https://github.com/razein97/Wizql-Issue-Tracker/releases/download/v#{version}/WizQl_#{version}_#{arch}.dmg"
+    verified: "https://wizql.com"
   name "WizQl"
   desc "A simple cross platform database client"
   homepage "https://wizql.com"
