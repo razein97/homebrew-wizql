@@ -9,6 +9,7 @@ cask "wizql" do
   name "WizQl"
   desc "A simple cross platform database client"
   homepage "https://wizql.com"
+    verified: "https://wizql.com"
 
   livecheck do
     url :url
