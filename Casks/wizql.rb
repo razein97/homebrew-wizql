@@ -6,7 +6,7 @@ cask "wizql" do
          intel: "64fdead9b6dd43c20880252e9a7ad41ec82cf8b0dee0faef1515cf868f09e3c0"
 
   url "https://github.com/razein97/Wizql-Issue-Tracker/releases/download/v#{version}/WizQl_#{version}_#{arch}.dmg"
-    verified: "https://wizql.com"
+    verified: "github.com/razein97/Wizql-Issue-Tracker"
   name "WizQl"
   desc "A simple cross platform database client"
   homepage "https://wizql.com"
