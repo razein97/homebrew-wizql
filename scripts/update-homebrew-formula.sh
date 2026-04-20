@@ -64,7 +64,7 @@ if [ "$VERSION" == "$CURRENT_VERSION" ]; then
     exit 0
 fi
 
-BASE_URL="https://github.com/${REPO_OWNER}/${REPO_NAME}/releases/download/v${VERSION}"
+BASE_URL="https://github.com/${REPO_OWNER}/${REPO_NAME}/releases/download/${VERSION}"
 
 echo "Downloading and calculating SHA256..."
 
