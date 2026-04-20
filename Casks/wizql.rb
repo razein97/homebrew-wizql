@@ -1,9 +1,9 @@
 cask "wizql" do
   arch arm: "aarch64", intel: "x64"
 
-  version "1.7.0"
-  sha256 arm:   "272e7196dd1666f7a1a6568b2efb7f817a95bf96e773f0eadbf09f0cf6a9288b",
-         intel: "64fdead9b6dd43c20880252e9a7ad41ec82cf8b0dee0faef1515cf868f09e3c0"
+  version "1.7.1"
+  sha256 arm:   "70e6a6557cd8d9def401e0d2feea5c4c402ce19ebfb651369527a90e1a5c3772",
+         intel: "5c91892b6c2ca207c7ca3cb06d39dda247fd11b91b2dece49f1f82e247faba06"
 
   url "https://github.com/razein97/Wizql-Issue-Tracker/releases/download/#{version}/WizQl_#{version}_#{arch}.dmg",
     verified: "github.com/razein97/Wizql-Issue-Tracker"
